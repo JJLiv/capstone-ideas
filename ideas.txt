@@ -1,0 +1,12 @@
+IDEA #1) 
+-- SPORTS API : "https://v1.american-football.api-sports.io/"
+	- Plan to use this API specifically for NFL data to allow users to find useful data to
+	- create user specific models that can be created and saved to manipulate projection models.
+
+IDEA #2)
+-- Create my own model using fake data to create a Boat detailing app.
+
+IDEA #3)
+-- SPORTS ODDS API : "https://the-odds-api.com/"
+	- Use sports odds API to find value in sports within the US to provide
+	- a model that could potentially lead to profitable sports picks.
